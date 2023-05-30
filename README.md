@@ -4,11 +4,11 @@
 - git push
 - branch
 - brach-name: feat/add-header, optimize-ui, quick-fix
-- git checkout -b `branck` -> git checkout -b optimize-ui
+- git checkout -b `branch` -> git checkout -b optimize-ui -> tạo nhánh mới
 - Nếu chưa tồn tại dưới local thì ở giao diện Source Control sẽ có nút button là Puslish Branch
 - git push --set-upstream origin optimize-ui `branch` git push --set-upstream origin optimize-ui
 - create pull request
 - merge code to branch Master
 - git checkout `branch` -> git checkout master -> chuyển sang nhánh khác
-- git pull -> kéo code từ nhánh về
+- git pull -> kéo code từ nhánh về trên github
 - git branch -D `branch` -> git branch -D optimize-ui
