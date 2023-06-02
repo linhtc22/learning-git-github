@@ -3,7 +3,9 @@
 - git add `file` -> git add index.html
 - git add . -> đưa toàn bộ thay đổi vào Stage Changes
 - git commit -m `message` git commit m'Add index.html and app,css'
-- git push
+- git commit --amend -> commit lần 2
+- git push origin `branch` -> git push origin master
+- git push origin `branch` -f -> push code lần 2
 
 # Branch
 
